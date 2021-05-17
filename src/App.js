@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <p>
         Playstore Application Upload. By Phant Chase
-        add
+        
         </p>
 
     </div>
